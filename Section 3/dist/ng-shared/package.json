@@ -1,0 +1,21 @@
+{
+  "name": "ng-shared",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.12",
+    "@angular/core": "^8.2.12"
+  },
+  "main": "bundles/ng-shared.umd.js",
+  "module": "fesm5/ng-shared.js",
+  "es2015": "fesm2015/ng-shared.js",
+  "esm5": "esm5/ng-shared.js",
+  "esm2015": "esm2015/ng-shared.js",
+  "fesm5": "fesm5/ng-shared.js",
+  "fesm2015": "fesm2015/ng-shared.js",
+  "typings": "ng-shared.d.ts",
+  "metadata": "ng-shared.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
