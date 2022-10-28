@@ -47,7 +47,3 @@ Software Requirements
 * [Full-Stack Web Development with Django and Angular 8 [Video]](https://www.packtpub.com/web-development/full-stack-web-development-with-django-and-angular-8-video)
 
 * [Modern Web Design Patterns in Angular 8 [Video]](packtpub.com/web-development/modern-web-design-patterns-angular-8-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838821692">https://packt.link/free-ebook/9781838821692 </a> </p>
